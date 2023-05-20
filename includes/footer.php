@@ -11,8 +11,8 @@
 					<!-- Footer Column -->
 					<div class="footer-column col-lg-5 col-md-6 col-sm-12">
 						<div class="footer-widget logo-widget">
-							<h5>About Vinccent Biotech Pvt. Ltd.</h5>
-							<div class="text">Vinccent Biotech Pvt. Ltd. is a diversified company from fair deal group of companies (FDG) who deals in automobile,pharmaceuticals,infrastructure development and having a group turnover of 170 Mn $.Vinccent Biotech Pvt. Ltd is well established pharmaceutical export company since 2014 based in the capital of India,Delhi (INDIA).</div>
+							<h5>About Aprimed Biotech Pvt. Ltd.</h5>
+							<div class="text">Aprimed Biotech Pvt. Ltd. is a diversified company from fair deal group of companies (FDG) who deals in automobile,pharmaceuticals,infrastructure development and having a group turnover of 170 Mn Aprimed Biotech Pvt. Ltd is well established pharmaceutical export company since 2014 based in the capital of India,Delhi (INDIA).</div>
 						</div>
 					</div>
 					
@@ -21,12 +21,12 @@
 						<div class="footer-widget links-widget">
 							<h5>Products</h5>
 							<ul class="list-link">
-								<li><a href="anthelmentic.html">Anthelmentic</a></li>
-											<li><a href="antifungal.html">Antifungal</a></li>
-										<li><a href="antiinfectives.html">Antiinfectives</a></li>
-										<li><a href="antimalarial.html">Antimalarial</a></li>
-										<li><a href="cough-syrup.html">Cough Syrup</a></li>
-										<li><a href="antidiabetic.html">Antidiabetic</a></li>
+								<li><a href="#">Anthelmentic</a></li>
+											<li><a href="#">Antifungal</a></li>
+										<li><a href="#">Antiinfectives</a></li>
+										<li><a href="#">Antimalarial</a></li>
+										<li><a href="#">Cough Syrup</a></li>
+										<li><a href="#">Antidiabetic</a></li>
 										
 							</ul>
 						</div>
@@ -40,17 +40,18 @@
 										<li>
 											<span class="icon flaticon-placeholder-2"></span>
 											<strong>Address</strong>
-											Plot no 4-6, 1st floor Main G.T.Road, Dilshad garden Delhi-110095, (India)
+											House No. 240-A, Front Portion Ground Floor, Village Sultanpuri Majra, Landmark Near Dr Sharma Clinic, New Delhi- 110041
+
 										</li>
 										<li>
 											<span class="icon flaticon-phone-call"></span>
 											<strong>Phone</strong>
-											<a href="tel:+786-875-864-75">+91 8800475284</a>
+											<a href="#">+91 9582061074</a>
 										</li>
 										<li>
 											<span class="icon flaticon-email-1"></span>
 											<strong>E-Mail</strong>
-											<a href="mailto:support@globex.com">info@vinccent.in</a>
+											<a href="mailto:export@aprimedbiotech.in">export@aprimedbiotech.in</a>
 										</li>
 									</ul>
 								</div>
@@ -67,7 +68,7 @@
 				<div class="row clearfix">
 					<!-- Column -->
 					<div class="column col-lg-6 col-md-12 col-sm-12">
-						<div class="copyright">Copyright &copy; 2020 by Vinccent Biotech Pvt. Ltd.. All Rights Reserved.</div>
+						<div class="copyright">Copyright &copy; 2023 by Aprimed Biotech Pvt. Ltd.. All Rights Reserved.</div>
 					</div>
 					<!-- Column -->
 					
@@ -87,7 +88,7 @@
 <div class="search-popup">
 	<button class="close-search style-two"><span class="flaticon-multiply"></span></button>
 	<button class="close-search"><span class="flaticon-up-arrow-1"></span></button>
-	<form method="post" action="blog.html">
+	<form method="post" action="#">
 		<div class="form-group">
 			<input type="search" name="search-field" value="" placeholder="Search Here" required="">
 			<button type="submit"><i class="fa fa-search"></i></button>

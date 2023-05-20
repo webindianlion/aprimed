@@ -4,14 +4,14 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Welcome | Vinccent Biotech Pvt.Ltd.</title>
+<title>Welcome | Aprimed Biotech Pvt.Ltd.</title>
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Nunito+Sans:wght@300;600;700;800;900&display=swap" rel="stylesheet">
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!-- Color Switcher Mockup -->
 <link href="css/color-switcher-design.css" rel="stylesheet">
 
@@ -161,14 +161,14 @@
 			<!-- Sec Title -->
 			<div class="sec-title">
 				<div class="title">Welcome</div>
-				<h2> Vinccent Biotech Pvt. Ltd </h2>
+				<h2> Aprimed Biotech Pvt. Ltd </h2>
 			</div>
 			<div class="row clearfix">
 				
 				<!-- Content Column -->
 				<div class="content-column col-lg-6 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<div class="text">“Vinccent Biotech Pvt Ltd. is a diversified company from the fair deal group of companies(fdg), dealing in automobile, pharmaceutical, and infrastructure development. The group has a turnover of 170 Mn $. Vinccent biotech pvt ltd is a well established pharmaceutical export company, primarily operating in the African continent since 2014. It is headquartered in the capital city of India, Delhi.</div>
+						<div class="text">“Aprimed Biotech Pvt Ltd. is a diversified company from the fair deal group of companies(fdg), dealing in automobile, pharmaceutical, and infrastructure development. The group has a turnover of 170 Mn $. Aprimed biotech pvt ltd is a well established pharmaceutical export company, primarily operating in the African continent since 2014. It is headquartered in the capital city of India, Delhi.</div>
 						<div class="blocks-outer">
 						
 							<!-- Feature Block -->
@@ -186,7 +186,7 @@
 								<div class="inner-box">
 									<div class="icon flaticon-technical-support"></div>
 									<h6>Regulatory Affairs</h6>
-									<div class="feature-text">At Vinccent, Regulatory Affairs professionals play a key role in guiding drug development strategy in an increasingly global environment. But they also play an important operational role by considering the best processes to follow and enabling structured interaction with regulatory authorities.
+									<div class="feature-text">At Aprimed, Regulatory Affairs professionals play a key role in guiding drug development strategy in an increasingly global environment. But they also play an important operational role by considering the best processes to follow and enabling structured interaction with regulatory authorities.
 
 </div>
 								</div>
@@ -233,7 +233,7 @@
 				<!-- Heading Column -->
 				<div class="heading-column col-lg-8 col-md-12 col-sm-12">
 					<div class="inner-column">
-						<h2 style="text-align: center;">Vinccent Biotech: "Providing remedies. Bringing smiles to people"</h2>
+						<h2 style="text-align: center;">Aprimed Biotech: "Providing remedies. Bringing smiles to people"</h2>
 					</div>
 				</div>
 				<!-- Button Column -->

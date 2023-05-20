@@ -3,55 +3,13 @@
  	
  	<!-- Main Header-->
     <header class="main-header header-style-one">
-    	
-		<!-- Header Top -->
-        <div class="header-top">
-            <div class="auto-container">
-                <div class="clearfix">
-					<!-- Top Left -->
-					<div class="top-left">
-						<!-- Info List -->
-						<ul class="info-list">
-							<li><a href="mailto:info@vinccent.in"><span class="icon flaticon-email"></span> info@vinccent.in</a></li>
-							<li><a href="tel:+91 8800475284"><span class="icon flaticon-telephone"></span> +91 8800475284</a></li>
-						</ul>
-					</div>
-					
-					<!-- Top Right -->
-                    <div class="top-right pull-right">
-
-
-                    	<div id="google_translate_element" style="display: inline-block;"></div>
-
-<script type="text/javascript" >
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-}
-</script>
-
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-						<!-- Social Box -->
-						<ul class="social-box" style="display: inline-block;">
-							<li><a href="https://www.facebook.com/Vinccent-Biotech-PvtLtd-104464355015639" class="fa fa-facebook-f" target="_blank"></a></li>
-							<li><a href="#" class="fa fa-twitter"></a></li>
-							<li><a href="#" class="fa fa-dribbble"></a></li>
-							<li><a href="#" class="fa fa-google"></a></li>
-						</ul>
-                    </div>
-
-                    
-
-					
-                </div>
-            </div>
-        </div>
 		
 		<!--Header-Upper-->
         <div class="header-upper">
         	<div class="auto-container clearfix">
             	
 				<div class="pull-left logo-box">
-					<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+					<div class="logo"><a href="index.html"><img src="images/ab-logo.png" alt="" title="" style="height:60px"></a></div>
 				</div>
 				
 				<div class="nav-outer clearfix">
@@ -70,60 +28,12 @@ function googleTranslateElementInit() {
 						
 						<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 							<ul class="navigation clearfix">
-								<li ><a href="index.html">Home</a></li>
-								<li ><a href="aboutus.html">About Us</a></li>
-									
-								
-								<li class="dropdown"><a href="#">Products</a>
-									<ul>
-										<li><a href="anthelmentic.html">Anthelmentic</a></li>
-											<li><a href="antifungal.html">Antifungal</a></li>
-										<li><a href="antiinfectives.html">antiinfectives</a></li>
-										<li><a href="antimalarial.html">Antimalarial</a></li>
-										<li><a href="cough-syrup.html">Cough Syrup</a></li>
-										<li><a href="antidiabetic.html">Antidiabetic</a></li>
-										<li><a href="antihypertensives.html">AntiHypertensives</a></li>
-											<li><a href="antimicrobial.html">antimicrobial</a></li>
-											
-											<li><a href="gastro-intestinal.html">Gastro Intestinal</a></li>
-
-
-
-										
-
-									</ul>
-								</li>
-
-
-								<li class="dropdown"><a href="#">Our Team </a>
-									<ul>
-										<li><a href="burking-faso.html">Burkina Faso</a></li>
-											<li><a href="mali.html">Mali</a></li>
-										<li><a href="benin.html"> Benin</a></li>
-										<li><a href="togo.html">Togo</a></li>
-										
-
-
-										
-
-									</ul>
-								</li>
-
-
-
-								<li class="dropdown"><a href="#">Business Segment</a>
-									<ul>
-										<li><a href="branded-generics-business.html">Branded Generics Business</a></li>
-										<li><a href="medical-devices-business.html">Medical Devices Business</a></li>
-										
-
-									</ul>
-								</li>
-								
-								
-								
-								
-								<li><a href="contact.html">Contact us</a></li>
+								<li ><a href="index.php">Home</a></li>
+								<li ><a href="aboutus.php">About Us</a></li>
+								<li><a href="#">Products</a> </li>
+								<li><a href="#">Our Team </a> </li>
+								<li><a href="#">Business Segment</a> </li>
+								<li><a href="contact.php">Contact us</a></li>
 							</ul>
 
 						</div>
@@ -186,7 +96,7 @@ function googleTranslateElementInit() {
             <div class="auto-container clearfix">
                 <!--Logo-->
                 <div class="logo pull-left">
-                    <a href="index.html" title=""><img src="images/logo-small.png" alt="" title=""></a>
+                    <a href="index.html" title=""><img src="images/ab-logo.png" alt="" title="" style="height:60px"></a>
                 </div>
                 <!--Right Col-->
                 <div class="pull-right">
